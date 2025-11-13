@@ -6,4 +6,4 @@ I've explored the impact absorption behavior of Hierarchical Auxetic Unit Cells 
 
 A biomimetic approach yielded almost an 83% increase in energy absorption per unit mass compared to the uniform HAUC (22 kJ/kg vs. 12 kJ/kg) at a 20 m/s impact. However, almost no increase in energy absorption was seen at a higher velocity of 96 m/s.
 
-For a more detailed explanation, complete with figures, [please visit my research page](https://jaswanth793.github.io/research/).
+For a short explanation of the physics behind this observation, complete with figures, [please visit my research page](https://jaswanth793.github.io/research/).
